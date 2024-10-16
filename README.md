@@ -1,6 +1,6 @@
 # Creación de Video Juego
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/8560750/195950148-0c0df38e-5f96-45ae-87c3-6922738c612d.jpg" alt="Logo" width=1200 height=300>
+    <img [src="https://user-images.githubusercontent.com/8560750/195950148-0c0df38e-5f96-45ae-87c3-6922738c612d.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.valenciaadicciones.es%2Fadiccion-a-los-videojuegos-en-alza-enganchado-a-la-consola%2F&psig=AOvVaw2o-idF96dWmlGn8aYvQ0-T&ust=1729128542881000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDF0_XfkYkDFQAAAAAdAAAAABAE)" alt="Logo" width=1200 height=300>
 
   <p align="center">
     Short description
