@@ -77,7 +77,7 @@ cómo se debe jugar, qué se puede y no se puede hacer, y cómo se determina el
   * > [Tutorial](https://drive.google.com/file/d/1WGOq-2UW2kluNPBJ2REFoE8c3qQfJW3Z/view?usp=sharing)
   * > Laboratorio
   * > Desafío
-  * > Prueba
+  * > Prueba(https://drive.google.com/file/d/1okwErdk9bKchAM5rRhjappZ_LGYtWLvN/view?usp=sharing)
 * Lección 4
   * > Tutorial
   * > Laboratorio
