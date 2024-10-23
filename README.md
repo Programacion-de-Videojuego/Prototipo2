@@ -77,7 +77,7 @@ cómo se debe jugar, qué se puede y no se puede hacer, y cómo se determina el
   * > [Tutorial](https://github.com/Programacion-de-Videojuego/Prototipo2/blob/fc497f95d636504aef30402bfa7440a72649a180/Prototipo3.l.unitypackage)
   * > Laboratorio
   * > Desafío
-  * > Prueba(https://drive.google.com/file/d/1okwErdk9bKchAM5rRhjappZ_LGYtWLvN/view?usp=sharing)
+  * > PDF(https://drive.google.com/file/d/1okwErdk9bKchAM5rRhjappZ_LGYtWLvN/view?usp=sharing)
 * Lección 4
   * > Tutorial
   * > Laboratorio
