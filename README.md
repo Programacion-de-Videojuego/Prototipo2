@@ -85,7 +85,7 @@ cómo se debe jugar, qué se puede y no se puede hacer, y cómo se determina el
   * > [PDF](https://drive.google.com/file/d/1N6q_frAQUd-VL2Ol-XjatuBj2yIzKitk/view?usp=sharing)
 * Lección 5
   * > Tutorial
-  * > Laboratorio
+  * > [PDFdesafio](https://drive.google.com/file/d/1WGmzah6OGSgDCo4_oE_vWJUbq6F2Iodz/view?usp=sharing)
   * > Desafío
   * > Prueba
 * VideoJuego
