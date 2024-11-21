@@ -71,7 +71,7 @@ cómo se debe jugar, qué se puede y no se puede hacer, y cómo se determina el
 * Prototipo 2
   * > [Tutorial](https://github.com/Programacion-de-Videojuego/Prototipo2/blob/2143d289764047dcabab1a1371bf96c0606a56e6/prototipo2.l.unitypackage)
   * > Laboratorio
-  * > Desafío(https://github.com/Programacion-de-Videojuego/Prototipo2/blob/47ac58318cf8a3b854f9ab3c451e2159a334d3a5/challenge1.unitypackage)
+  * > [Desafío](https://github.com/Programacion-de-Videojuego/Prototipo2/blob/47ac58318cf8a3b854f9ab3c451e2159a334d3a5/challenge1.unitypackage)
   * > Prueba
 * Prototipo 3 
   * > [Tutorial](https://github.com/Programacion-de-Videojuego/Prototipo2/blob/fc497f95d636504aef30402bfa7440a72649a180/Prototipo3.l.unitypackage)
