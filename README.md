@@ -81,7 +81,7 @@ cómo se debe jugar, qué se puede y no se puede hacer, y cómo se determina el
 * Lección 4
   * > [Tutoril4](https://github.com/Programacion-de-Videojuego/Prototipo2/blob/534949c7af0eaf6e692c2550084cdc737f87370e/Tutorial4.unitypackage)
   * > Laboratorio
-  * > Desafío
+  * > [Desafío](https://github.com/Programacion-de-Videojuego/Prototipo2/blob/539e9b9124dfc3e5fc345fced45f8b18c884de79/Desafio4.unitypackage)
   * > [PDF](https://drive.google.com/file/d/1N6q_frAQUd-VL2Ol-XjatuBj2yIzKitk/view?usp=sharing)
 * Lección 5
   * > Tutorial
