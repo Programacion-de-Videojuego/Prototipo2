@@ -87,7 +87,7 @@ cómo se debe jugar, qué se puede y no se puede hacer, y cómo se determina el
   * > Tutorial
   * > [PDFdesafio](https://drive.google.com/file/d/1WGmzah6OGSgDCo4_oE_vWJUbq6F2Iodz/view?usp=sharing)
   * > [Desafío](https://github.com/Programacion-de-Videojuego/Prototipo2/blob/c4fa59fb731e82122daf97877ed804269810ca47/Desafio5.unitypackage)
-  * > Prueba
+  * > [PDFTutorial](https://drive.google.com/file/d/1EbemsRgOsgalVM0JflmGNQe5KtmiKXQD/view?usp=sharing)
 * VideoJuego
 
 ## Planificación
