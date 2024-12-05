@@ -90,6 +90,10 @@ cómo se debe jugar, qué se puede y no se puede hacer, y cómo se determina el
   * > [PDFTutorial](https://drive.google.com/file/d/1EbemsRgOsgalVM0JflmGNQe5KtmiKXQD/view?usp=sharing)
 * VideoJuego
 
+* [web](https://drive.google.com/file/d/1kAHEtDdxh05FioHgWf25uL0zOPSlbGg4/view?usp=sharing)
+* [PC](https://drive.google.com/file/d/1n7knI28dXds7eUq3ybQ6gWP6CHLDpL-Y/view?usp=sharing)
+* [Android](https://drive.google.com/file/d/1O2fW8gLIK3DWtCBTitHhyWLIm7dAqxZ-/view?usp=sharing)
+
 ## Autores
 Luis Narvaez 
 
