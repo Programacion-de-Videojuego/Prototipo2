@@ -94,6 +94,9 @@ cómo se debe jugar, qué se puede y no se puede hacer, y cómo se determina el
 * [PC](https://drive.google.com/file/d/1n7knI28dXds7eUq3ybQ6gWP6CHLDpL-Y/view?usp=sharing)
 * [Android](https://drive.google.com/file/d/1O2fW8gLIK3DWtCBTitHhyWLIm7dAqxZ-/view?usp=sharing)
 
+* ![WhatsApp Image 2024-12-10 at 2 09 13 PM](https://github.com/user-attachments/assets/b885c202-e16a-4209-baef-e392d3e0e862)
+
+
 ## Autores
 Luis Narvaez 
 
